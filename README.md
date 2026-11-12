@@ -1,0 +1,1 @@
+# ARABIC_GET_COINS
